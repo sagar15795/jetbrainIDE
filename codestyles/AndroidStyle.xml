@@ -45,7 +45,6 @@
   <option name="JD_KEEP_EMPTY_EXCEPTION" value="false" />
   <option name="JD_KEEP_EMPTY_RETURN" value="false" />
   <option name="JD_PRESERVE_LINE_FEEDS" value="true" />
-  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
   <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   <option name="BLANK_LINES_AROUND_FIELD" value="1" />
@@ -118,6 +117,10 @@
   <ADDITIONAL_INDENT_OPTIONS fileType="yml">
     <option name="INDENT_SIZE" value="2" />
   </ADDITIONAL_INDENT_OPTIONS>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
