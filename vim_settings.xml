@@ -1,0 +1,60 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" timestamp="1492078852563">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1492078997014">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="26" column="0" filename="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" />
+      <jump line="16" column="1" filename="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" />
+      <jump line="22" column="12" filename="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" />
+      <jump line="21" column="12" filename="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" />
+      <jump line="20" column="12" filename="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" />
+      <jump line="32" column="8" filename="$USER_HOME$/AndroidStudioProjects/LatticeWorK/FYVE/app/src/main/java/in/thelattice/fyve/ui/devicesetting/DeviceSettingActivity.java" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnZXRTdXBwb3J0QWN0aW9uQmFyXD4=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxnZXRTdXBwb3J0QWN0aW9uQmFyXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxnZXRTdXBwb3J0QWN0aW9uQmFyXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxnZXRTdXBwb3J0QWN0aW9uQmFyXD4=</entry>
+      </history-search>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
