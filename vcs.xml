@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/AkashBhave/LocoMoto" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/viniciussoares/ribot-android-boilerplate-kotlin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects/" />
