@@ -8,5 +8,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="false" />
+    <entry key="bigger.font.in.project.view" value="true" />
   </component>
 </application>
