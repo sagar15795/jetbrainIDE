@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping pattern="DD" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="db-journal" type="PLAIN_TEXT" />
