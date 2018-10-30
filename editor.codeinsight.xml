@@ -9,7 +9,6 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_MEMBER_IMPORTS_ON_THE_FLY" value="false" />
-    <EXCLUDED_PACKAGE NAME="in.ac.du.delhiuniversity.Manifest" />
   </component>
   <component name="OCCodeFoldingSettings">
     <option name="collapseMultilineComments" value="true" />
