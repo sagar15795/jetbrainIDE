@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
@@ -8,11 +8,11 @@
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
     <option name="tabsHeight" value="25" />
-    <option name="accentColor" value="80cbc4" />
+    <option name="accentColor" value="0f111a" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="2af42ee2:1660f338eff:-7fff" />
     <option name="version" value="3.5.0.1" />
-    <option name="tabHighlightPosition" value="Left" />
+    <option name="tabHighlightPosition" value="Top" />
   </component>
 </application>
