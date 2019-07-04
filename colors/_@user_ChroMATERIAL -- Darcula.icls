@@ -4,11 +4,11 @@
     <property name="created">2018-03-11T10:58:46</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2019-07-04T11:19:23</property>
+    <property name="modified">2019-07-04T13:33:07</property>
     <property name="originalScheme">ChroMATERIAL -- Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8fa859" />
